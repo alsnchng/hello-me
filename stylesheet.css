@@ -1,0 +1,83 @@
+
+  .hello-me{
+    margin: 10px;
+    text-align: left;
+    font-family: helvetica;
+    font-size: 100%;
+    color: darkgreen;
+  }
+
+  .h2{
+    margin: 10px;
+    position: relative;
+    top: -150px;
+    text-align: left;
+    font-family: georgia;
+    font-size: 1000%;
+    color: darkgreen;
+  }
+
+  .h3{
+    margin: 10px;
+    position: relative;
+    top: -150px;
+    left: 150px;
+    background: white;
+    width: 300px;
+    height: 65px;
+    border: 4px;
+    border-style: solid;
+    border-color: darkgreen;
+    border-radius: 50px;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 100%;
+    color: darkgreen;
+  }
+
+  .p1{
+    margin: 10px;
+    position: relative;
+    top: -700px;
+    text-align: justify;
+    line-height: 1.30;
+    font-family: helvetica;
+    font-size: 300%;
+    color: darkgreen;
+  }
+
+  .p2{
+    margin: 10px;
+    position: relative;
+    top: -700px;
+    text-align: justify;
+    line-height: 1.15;
+    font-family: georgia;
+    font-size: 350%;
+    color: darkgreen;
+  }
+
+  .img{
+    margin: 10px;
+    position: relative;
+    text-align: revert;
+    top: -700px;
+    left: 700px;
+  }
+
+  .arrow{
+    margin: 10px;
+    position: relative;
+    text-align: center;
+    top: -600px;
+    font-family: helvetica;
+    font-size: 500%;
+    color: darkgreen;
+  }
+
+  .room-2{
+    margin: 10px;
+    position: relative;
+    text-align: center;
+    top: -500px;
+  }
